@@ -1,2 +1,2 @@
 # duplicatedetector
-detects and outputs deuplicate in propery files. 
+detects and outputs duplicate in propery files. 
